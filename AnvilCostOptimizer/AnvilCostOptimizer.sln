@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnvilCostOptimizer", "AnvilCostOptimizer.csproj", "{98553BC0-8B77-41EE-A6F6-12552BF55F1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98553BC0-8B77-41EE-A6F6-12552BF55F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98553BC0-8B77-41EE-A6F6-12552BF55F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98553BC0-8B77-41EE-A6F6-12552BF55F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98553BC0-8B77-41EE-A6F6-12552BF55F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85ADACA7-9BC8-463F-8335-4F1856BA1A52}
+	EndGlobalSection
+EndGlobal
